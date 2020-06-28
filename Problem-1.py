@@ -33,3 +33,19 @@ for i in range(0,n):
 	output_2[i] = left_products[i]*right_products[i]
 
 print(output_2)
+
+
+'''
+Solution-3
+Removing extraspace
+'''
+
+output_3 = [1]*n
+for i in range(1,n):
+	output_3[i] = nums[i-1]*output_3[i-1]
+r = 1
+for i in range(n-1,-1,-1):
+	output_3[i] = output_3[i]*r
+	r= r*nums[i] 
+
+print(output_3)

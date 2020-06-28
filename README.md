@@ -1,6 +1,6 @@
 # Interview-Prep #
 
-**Problem 1 : **-Product of array except itself-
+**Problem 1 :** -Product of array except itself-
 
 >Solutions
 

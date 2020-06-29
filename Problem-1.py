@@ -16,7 +16,7 @@ print(output)
 
 '''
 Solution-2 using extra-space
-In this approach we take left and right products array and then multiply them together.
+In this approach we take left and right products of every elements of array and then multiply both array together.
 
 '''
 

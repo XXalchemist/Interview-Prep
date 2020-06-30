@@ -28,7 +28,7 @@
 
 **Problem 5 :** Valid Paranthesis ( ( ), { }, [ ] )<br>
 
-**Stack**<br>
+>**Stack**<br>
 _Table for information regarding stack_
 
 |Method|Description|

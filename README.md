@@ -27,6 +27,7 @@
 `Algorithm-1 O(n)`
 
 **Problem 5 :** Valid Paranthesis ( ( ), { }, [ ] )<br>
+
 **Stack**<br>
 _Table for information regarding stack_
 

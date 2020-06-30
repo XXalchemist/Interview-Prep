@@ -37,7 +37,7 @@ print(output_2)
 
 '''
 Solution-3
-Removing extraspace
+Removing extraspace to improve our algorithm
 '''
 
 output_3 = [1]*n

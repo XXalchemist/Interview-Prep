@@ -8,11 +8,15 @@
 `Alogrithm-2 using extraspace O(3n)`<br>
 `Algorithm-3 without extraspace O(2n)`<br>
 
-**Problem 2:** First non repeating character
+**Problem 2 :** First non repeating character
 
 >Solutions<br>
 
 `Algorithm-1 using Brute Force O(n2)`
 `Algorithm-2 using hashmap O(2n)`
 
+**Problem 3 :** Maximum Sum Sub-array (Kadanne's algo)
+>Solutions<br>
 
+`Algorithm-1 using Brute Force O(n2)`
+`Algorithm-2 Kadanne's Algorithm O(n)`

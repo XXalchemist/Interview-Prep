@@ -20,3 +20,8 @@
 
 `Algorithm-1 using Brute Force O(n2)`
 `Algorithm-2 Kadanne's Algorithm O(n)`
+
+**Problem 4 :** Valid Anagram 
+>Solution<br>
+
+`Algorithm-1 O(n)`

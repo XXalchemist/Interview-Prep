@@ -25,3 +25,20 @@
 >Solution<br>
 
 `Algorithm-1 O(n)`
+
+**Problem 5 :** Valid Paranthesis ( ( ), { }, [ ] )<br>
+**Stack**<br>
+_Table for information regarding stack_
+
+|Method|Description|
+|---|---| 
+|empty() | Returns whether the stack is empty – **Time Complexity : O(1)**|
+|size() | Returns the size of the stack – **Time Complexity : O(1)**|
+|top() | Returns a reference to the top most element of the stack – **Time Complexity : O(1)**|
+|push(g) | Adds the element ‘g’ at the top of the stack – **Time Complexity : O(1)**|
+|pop() | Deletes the top most element of the stack – **Time Complexity : O(1)**|
+<br>
+
+>Solution<br>
+
+`Algorithm-1 using stack/list`

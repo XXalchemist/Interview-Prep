@@ -52,3 +52,12 @@ _returns true if sum of one from array a and one from array b is equals to the g
 
 `Algorithm-1 using brute force O(n2)`
 `Algorithm-2 using datastructure (set) O(2n)`
+
+**Problem 7 :** Sorted square array<br>
+
+_To return sorted square array of the given input. Input may contain negative numbers and is sorted initially._
+
+>Solutions<br>
+
+`Algorithm-1 using sort method O(nlogn)`
+`Algorithm-2 using two pointers O(n)`

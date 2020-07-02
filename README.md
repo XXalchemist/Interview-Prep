@@ -43,3 +43,12 @@ _Table for information regarding stack_
 >Solution<br>
 
 `Algorithm-1 using stack/list`
+
+**Problem 6 :** Sum of Two <br>
+
+_returns true if sum of one from array a and one from array b is equals to the given value v else returns false_
+
+>Solutions<br>
+
+`Algorithm-1 using brute force O(n2)`
+`Algorithm-2 using datastructure (set) O(2n)`

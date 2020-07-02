@@ -61,3 +61,14 @@ _To return sorted square array of the given input. Input may contain negative nu
 
 `Algorithm-1 using sort method O(nlogn)`
 `Algorithm-2 using two pointers O(n)`
+
+**Problem 8 :** First Duplicate<br>
+
+_To return the value of the first duplicate in the given array._
+
+>Solutions<br>
+
+`Algorithm-1 using brute force O(n2)`
+`Algorithm-2 using set O(n)`
+`Algorithm-3 without set O(n)`
+

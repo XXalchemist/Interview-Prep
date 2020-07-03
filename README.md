@@ -72,3 +72,23 @@ _To return the value of the first duplicate in the given array._
 `Algorithm-2 using set O(n)`
 `Algorithm-3 without set O(n)`
 
+
+**Problem 9 :** Valid Sudoku<br>
+
+_To return true if the given sudoku is valid else false. Given Input is 2d arrays of 9x9 squares with blank represented as "." _
+
+`Example : [
+    ['7','5','.','.','.','.','4','.','9'],
+    ['1','2','.','.','.','.','4','.','9'],
+    ['3','.','.','.','.','.','4','.','9'],
+    ['6','4','.','.','.','.','4','.','9'],
+    ['2','.','.','.','.','.','4','.','9'],
+    ['.','8','.','.','.','.','4','.','9'],
+    ['.','1','.','.','.','.','4','.','9'],
+    ['4','5','.','.','.','.','4','.','9'],
+    ['.','5','.','.','.','.','4','.','9'],
+]`
+
+>Solution<br>
+
+`Algorithm-1 using set O(1) as given input 9x9.`

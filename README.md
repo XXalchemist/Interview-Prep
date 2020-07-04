@@ -92,3 +92,11 @@ _To return true if the given sudoku is valid else false. Given Input is 2d array
 >Solution<br>
 
 `Algorithm-1 using set O(1) as given input 9x9.`
+
+**Problem 10 :** Longest Palindromic substring<br>
+
+_To return Longest palindrome substring from given string. eg- baabad -> aba_
+
+>Solution<br>
+
+'Algorithm-1 O(n2)'

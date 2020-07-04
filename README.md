@@ -99,4 +99,4 @@ _To return Longest palindrome substring from given string. eg- baabad -> aba_
 
 >Solution<br>
 
-'Algorithm-1 O(n2)'
+`Algorithm-1 O(n2)`

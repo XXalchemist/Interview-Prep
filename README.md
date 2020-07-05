@@ -100,3 +100,11 @@ _To return Longest palindrome substring from given string. eg- baabad -> aba_
 >Solution<br>
 
 `Algorithm-1 O(n2)`
+
+**Problem 11 :** Count of subarray sum equals to k<br>
+
+_To return the number of times the sum is equal to k in the given array_
+
+>Solution<br>
+
+`Algorithm-1 using dictionary(hashmap)`

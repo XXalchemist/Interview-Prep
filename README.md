@@ -108,3 +108,11 @@ _To return the number of times the sum is equal to k in the given array_
 >Solution<br>
 
 `Algorithm-1 using dictionary(hashmap)`
+
+**Problem 12 :** Find all the duplicates in the given array<br>
+
+_We make negative the arr[abs(arr[value])-1] so that if the duplicate occurs in array then we can traverse the duplicate one as it have different sign_.
+
+>Solution<br>
+
+`Algorithm-1 without using extraspace and have time complexityO(n)`

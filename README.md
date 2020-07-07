@@ -116,3 +116,13 @@ _We make negative the arr[abs(arr[value])-1] so that if the duplicate occurs in 
 >Solution<br>
 
 `Algorithm-1 without using extraspace and have time complexityO(n)`
+
+**Problem 13 :** Task Scheduler (Leet Code 621 refer for more info)<br>
+
+_Example : ['A','A','A','B','B','B']<br>
+'A' and 'B' are given two task and n(cooling period) = 2.<br>
+Output - 8 (A->B -> idle -> A->B -> idle -> A->B)_<br>
+
+>Solution<br>
+
+`Algorithm-1 O(2n)`

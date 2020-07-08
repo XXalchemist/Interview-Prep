@@ -127,7 +127,7 @@ Output - 8 (A->B -> idle -> A->B -> idle -> A->B)_<br>
 
 `Algorithm-1 O(2n)`
 
-**Problem 14 :** Longest Common Subsequence (Sliding window approach)<br>
+**Problem 14 :** Longest Continuous Subsequence (Sliding window approach)<br>
 
 _Example : Input : [1,3,5,4,7] will return 3 output. 4 length is not valid answer as it is seperated by 4 in the given input._
 

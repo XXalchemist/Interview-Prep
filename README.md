@@ -134,3 +134,9 @@ _Example : Input : [1,3,5,4,7] will return 3 output. 4 length is not valid answe
 >Solution<br>
 
 `Algorithm-1 O(n) using sliding window approach`
+
+**Problem 15 :** Longest word in dictionary <br>
+
+>Solution<br>
+
+`Algorithm 1 using set O(n)`

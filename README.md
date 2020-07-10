@@ -145,4 +145,4 @@ _This problem needs revision_
 _This Problem needs revision_
 >Solution<br>
 
-`Algorithm 1 O(n)`
+`Algorithm 1 O(nlogn)`

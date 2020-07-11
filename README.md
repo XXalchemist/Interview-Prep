@@ -146,3 +146,10 @@ _This Problem needs revision_
 >Solution<br>
 
 `Algorithm 1 O(nlogn)`
+
+**Problem 17 :** Valid Perfect Square<br>
+_To return true for valid pefect square input and false for not a valid pefect square number. Also don't use sqrt() method._
+
+>Solution <br>
+
+`Algorithm-1 O(logn) using binary search and n is the input`

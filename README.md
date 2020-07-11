@@ -153,3 +153,4 @@ _To return true for valid pefect square input and false for not a valid pefect s
 >Solution <br>
 
 `Algorithm-1 O(logn) using binary search and n is the input`
+`Algorithm-2 O(logn) using Newton's method`

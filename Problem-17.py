@@ -30,4 +30,17 @@ print('-'*35)
 print('Input : 18','\nOutput : ',isValidPerSquare(18))
 print('-'*35)
 
+# Newton's Method to calculate closest perfect square
+def isValidPerSquareNewtonsmethod(num):
+    result = num
+        # stop while until < or ==
+    while result * result > num:
+        result = (result + num // result) // 2
+
+    return result * result == num
+print('Input : 25','\nOutput : ',isValidPerSquareNewtonsmethod(25))
+print('-'*35)
+print('Input : 50','\nOutput : ',isValidPerSquareNewtonsmethod(50))
+print('-'*35)
+
 

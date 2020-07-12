@@ -1,5 +1,28 @@
 # Interview-Prep #
 
+##                                    Index                                              ##
+| **Problem Number** | **Problem Statement** |
+|--------------------|-----------------------|
+| 1.| Product of array except itself |
+| 2.| First non repeating character |
+| 3.| Maximum Sum Sub-array (Kadanne's algo) |
+| 4.| Valid Anagram |
+| 5.| Valid Paranthesis ( ( ), { }, [ ] ) |
+| 6.| Sum of Two |
+| 7.| Sorted square array |
+| 8.| First Duplicate |
+| 9.| Valid Sudoku |
+|10.| Longest Palindromic substring |
+|11.| Count of subarray sum equals to k |
+|12.| Find all the duplicates in the given array |
+|13.| Task Scheduler (Leet Code 621 refer for more info) |
+|14.| Longest Continuous Subsequence (Sliding window approach) |
+|15.| Longest word in dictionary |
+|16.| Minimum size subarray sum |
+|17.| Valid Perfect Square |
+|18.| Convert Roman to Integer Number |
+
+
 **Problem 1 :**  Product of array except itself 
 
 >Solutions <br>
@@ -157,6 +180,6 @@ _To return true for valid pefect square input and false for not a valid pefect s
 
 **Problem 18 :** Convert Roman Number to Integer
 
->SOlution <br>
+>Solution <br>
 
 `Algorithm-1 O(n)`

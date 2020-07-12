@@ -17,11 +17,12 @@
 |12.| Find all the duplicates in the given array |
 |13.| Task Scheduler (Leet Code 621 refer for more info) |
 |14.| Longest Continuous Subsequence (Sliding window approach) |
-|15.| Longest word in dictionary |
-|16.| Minimum size subarray sum |
+|15.| ! Longest word in dictionary |
+|16.| ! Minimum size subarray sum |
 |17.| Valid Perfect Square |
 |18.| Convert Roman to Integer Number |
 
+***
 
 **Problem 1 :**  Product of array except itself 
 

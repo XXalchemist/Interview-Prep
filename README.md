@@ -22,6 +22,7 @@
 |17.| Valid Perfect Square         |
 |18.| Convert Roman to Integer Number |
 |19.| Power Of 2 |
+|20.| To Lower Case|
 
 ***
 
@@ -191,3 +192,7 @@ _if given numer is power of 2 return True else False._
 _Example : 1 -> True; 3 -> False_
 
 `Algorithm 1 O(logn) using while loop` `Algorithm 2 O(1) using bit manipulation`
+
+**Problem 20 :** To Lower Case without using lower case method<br>
+
+`Algorithm 1 O(n)`

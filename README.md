@@ -21,7 +21,7 @@
 |16.| ! Minimum size subarray sum  |
 |17.| Valid Perfect Square         |
 |18.| Convert Roman to Integer Number |
-|19.| - |
+|19.| Power Of 2 |
 
 ***
 

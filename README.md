@@ -1,6 +1,6 @@
 # Interview-Prep #
 
-##                                    Index                                              ##
+##                                   Index                                              ##
 | **Problem Number** | **Problem Statement** |
 |--------------------|-----------------------|
 | 1.| Product of array except itself |
@@ -18,9 +18,10 @@
 |13.| Task Scheduler (Leet Code 621 refer for more info) |
 |14.| Longest Continuous Subsequence (Sliding window approach) |
 |15.| ! Longest word in dictionary |
-|16.| ! Minimum size subarray sum |
-|17.| Valid Perfect Square |
+|16.| ! Minimum size subarray sum  |
+|17.| Valid Perfect Square         |
 |18.| Convert Roman to Integer Number |
+|19.| - |
 
 ***
 
@@ -176,11 +177,17 @@ _To return true for valid pefect square input and false for not a valid pefect s
 
 >Solution <br>
 
-`Algorithm-1 O(logn) using binary search and n is the input`
-`Algorithm-2 O(logn) using Newton's method`
+`Algorithm 1 O(logn) using binary search and n is the input`
+`Algorithm 2 O(logn) using Newton's method`
 
 **Problem 18 :** Convert Roman Number to Integer
 
 >Solution <br>
 
 `Algorithm-1 O(n)`
+
+**Problem 19 :** Power of 2 <br>
+_if given numer is power of 2 return True else False._
+_Example : 1 -> True; 3 -> False_
+
+`Algorithm 1 O(logn) using while loop` `Algorithm 2 O(1) using bit manipulation`

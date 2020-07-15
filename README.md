@@ -23,6 +23,7 @@
 |18.| Convert Roman to Integer Number |
 |19.| Power Of 2 |
 |20.| To Lower Case|
+|21.| Number Series Problem|
 
 ***
 
@@ -194,5 +195,9 @@ _Example : 1 -> True; 3 -> False_
 `Algorithm 1 O(logn) using while loop` `Algorithm 2 O(1) using bit manipulation`
 
 **Problem 20 :** To Lower Case without using lower case method<br>
+
+`Algorithm 1 O(n)`
+
+**Problem 21 :** Number Series Problem<br>
 
 `Algorithm 1 O(n)`

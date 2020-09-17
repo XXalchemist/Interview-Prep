@@ -24,6 +24,8 @@
 |19.| Power Of 2 |
 |20.| To Lower Case|
 |21.| Number Series Problem|
+|22.| Knapsack Problem|
+
 
 ***
 
@@ -201,3 +203,9 @@ _Example : 1 -> True; 3 -> False_
 **Problem 21 :** Number Series Problem<br>
 
 `Algorithm 1 O(n)`
+
+
+**Problem 22 :** Knapsack Problem<br>
+
+`Algorithm 1 Brute force : O(2^n)` 
+`Algorithm 2 Dynamic Pro : O(n*C)`

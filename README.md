@@ -25,7 +25,7 @@
 |20.| To Lower Case|
 |21.| Number Series Problem|
 |22.| ! Knapsack Problem|
-
+|23.| Maximum number of repeated character|
 
 ***
 

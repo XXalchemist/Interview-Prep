@@ -211,3 +211,11 @@ _Example : 1 -> True; 3 -> False_
 `Algorithm 2 Dynamic Pro : O(n*C)`
 
 > Needs Revision 
+
+**Problem 23 :** To Find Max number of character in a given string.<br>
+
+Given an string , return -1 if max number of character is same else return the max occuring character. 
+
+`Algorithm 1 : O(3n)` 
+
+ 
